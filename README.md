@@ -7,3 +7,5 @@ master conflict
 
 stashing
 
+tagging
+
