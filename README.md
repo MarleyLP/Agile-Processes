@@ -5,3 +5,5 @@ Dazzling Feature
 
 master conflict
 
+stashing
+
